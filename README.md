@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 📫 Blog: https://oceanzbz.github.io/
 - 😄 Rss: https://oceanzbz.github.io/atom.xml
 - ⚡ Hobby: 🎱，🏀
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
+## GitHub Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oceanzbz)](https://github.com/anuraghazra/github-readme-stats)
