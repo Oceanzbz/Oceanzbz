@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi,I'm Oceanzbz 👋
 
 <!--
 **Oceanzbz/Oceanzbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏫 I’m studying at OUC
+- 📑 I’m learning Security
+- 📫 Blog: https://oceanzbz.github.io/
+- 😄 Rss: https://oceanzbz.github.io/atom.xml
+- ⚡ Hobby: 🎱，🏀
