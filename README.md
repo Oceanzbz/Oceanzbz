@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I’m studying at OUC
-- 📑 I’m learning Security
+- 📑 I’m learning Web Security
 - 📫 Blog: https://oceanzbz.github.io/
 - 😄 Rss: https://oceanzbz.github.io/atom.xml
 - ⚡ Hobby: 🎱，🏀
